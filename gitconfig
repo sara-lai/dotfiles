@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = shihualai@gmail.com
+	name = sara lai
